@@ -14,4 +14,4 @@ RL RANK UP est une plateforme d'entraînement Rocket League pour progresser et m
 
 ## English
 
-RL RANK UP is a Rocket League training platform: a 30-day program, training exercises, Tactical Lab scenarios and MMR tracking. Free to start: https://rl-rank-up.pages.dev/
+RL RANK UP is a Rocket League training platform: a 30-day program, training exercises, Tactical Lab scenarios and MMR tracking. Free to start: https://rlrankup.fr/
